@@ -1,0 +1,9 @@
+---
+- name: Auckland
+  country_id: "145"
+  id: "101"
+  abbr: AKL
+- name: Waikato
+  country_id: "145"
+  id: "102"
+  abbr: WKO
