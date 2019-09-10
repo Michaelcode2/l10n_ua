@@ -11,7 +11,7 @@
   country_id: "145"
   id: "103"
   abbr: WKO
-  - name: "Bay of Plenty"
+  - name: Bay of Plenty
   country_id: "145"
   id: "104"
   abbr: BOP
@@ -19,7 +19,7 @@
   country_id: "145"
   id: "105"
   abbr: GIS
-  - name: "Hawke's Bay"
+  - name: Hawke's Bay
   country_id: "145"
   id: "106"
   abbr: HKB
@@ -27,7 +27,7 @@
   country_id: "145"
   id: "107"
   abbr: HKB
-  - name: "Manawatu-Wanganui"
+  - name: Manawatu-Wanganui
   country_id: "145"
   id: "108"
   abbr: MWT
@@ -47,7 +47,7 @@
   country_id: "145"
   id: "112"
   abbr: MBH
-  - name: "West Coast"
+  - name: West Coast
   country_id: "145"
   id: "113"
   abbr: WTC
