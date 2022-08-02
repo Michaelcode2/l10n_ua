@@ -1,40 +1,40 @@
 ---
-- name: Northland
-  country_id: "145"
-  id: "101"
-  abbr: NTL
-- name: Auckland
-  country_id: "145"
-  id: "102"
-  abbr: AUK
-- name: Waikato
-  country_id: "145"
-  id: "103"
-  abbr: WKO
-- name: Bay of Plenty
-  country_id: "145"
-  id: "104"
-  abbr: BOP
-- name: Gisbourne
-  country_id: "145"
-  id: "105"
-  abbr: GIS
-- name: Hawke's Bay
-  country_id: "145"
-  id: "106"
-  abbr: HKB
-- name: Taranaki
-  country_id: "145"
-  id: "107"
-  abbr: HKB
-- name: Manawatu-Wanganui
-  country_id: "145"
-  id: "108"
-  abbr: MWT
-- name: Wellington
-  country_id: "145"
-  id: "109"
-  abbr: WGN
+- name: Автономна республіка Крим
+  country_id: "804"
+  id: "43"
+  abbr: KRM
+- name: Черкаська обл.
+  country_id: "804"
+  id: "71"
+  abbr: CKS
+- name: Чернігівська обл.
+  country_id: "804"
+  id: "74"
+  abbr: CNH
+- name: Чернівецька обл.
+  country_id: "804"
+  id: "77"
+  abbr: CNC
+- name: Дніпропетровська обл.
+  country_id: "804"
+  id: "12"
+  abbr: DNP
+- name: Донецька обл.
+  country_id: "804"
+  id: "14"
+  abbr: DNC
+- name: Івано-Франківська обл.
+  country_id: "804"
+  id: "26"
+  abbr: IVF
+- name: Харківська обл.
+  country_id: "804"
+  id: "63"
+  abbr: HRK
+- name: Херсонська обл.
+  country_id: "804"
+  id: "65"
+  abbr: HSN
 - name: Tasman
   country_id: "145"
   id: "110"
